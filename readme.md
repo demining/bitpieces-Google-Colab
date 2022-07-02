@@ -21,3 +21,10 @@ To clone the repo, type this into a terminal:
 <h2>Bugs and feature requests</h2>
 Have a bug or a feature request? Please <a href="https://github.com/tchoulihan/bitpieces/issues/new">
 open a new issue</a>.
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
